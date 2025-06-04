@@ -4,7 +4,6 @@ let input = fs.readFileSync(filePath).toString().trim().split("\n");
 
 let T =  parseInt(input[0]);
 let index = 1;
-//console.log(input);
 
 for (let i = 0; i < T; i++) {
     let [n, m] = input[index].split(" ").map(Number);

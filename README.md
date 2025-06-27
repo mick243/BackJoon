@@ -11,4 +11,6 @@
 - 1181 풀이 : https://velog.io/@newbie_1761/BackJoon-1181
 - 1259 풀이 : https://velog.io/@newbie_1761/BackJoon-1259
 - 1330 풀이 : https://velog.io/@newbie_1761/BackJoon-1330
+- 1436 풀이 : https://velog.io/@newbie_1761/BackJoon-1436
 - 1546 풀이 : https://velog.io/@newbie_1761/BackJoon-1546
+- 1676 풀이 : https://velog.io/@newbie_1761/BackJoon-1676

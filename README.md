@@ -11,4 +11,4 @@
 - 1181 풀이 : https://velog.io/@newbie_1761/BackJoon-1181
 - 1259 풀이 : https://velog.io/@newbie_1761/BackJoon-1259
 - 1330 풀이 : https://velog.io/@newbie_1761/BackJoon-1330
-- 1546 풀이 : https://velog.io/@newbie_1761/Temp-Title
+- 1546 풀이 : https://velog.io/@newbie_1761/BackJoon-1546

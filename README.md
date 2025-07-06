@@ -18,4 +18,6 @@
 - 1978 풀이 : https://velog.io/@newbie_1761/BackJoon-1978
 
 ## 🌱 2000 ~ 2999
+- 2108 풀이 : https://velog.io/@newbie_1761/BackJoon-2108
 - 2164 풀이 : https://velog.io/@newbie_1761/BackJoon-2164
+- 2292 풀이 : https://velog.io/@newbie_1761/BackJoon-2292

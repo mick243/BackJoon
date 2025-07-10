@@ -30,3 +30,5 @@
 - 2630 풀이 : https://velog.io/@newbie_1761/BackJoon-2630
 - 2675 풀이 : https://velog.io/@newbie_1761/BackJoon-2675
 - 2738 풀이 : https://velog.io/@newbie_1761/BackJoon-2738
+- 2741 풀이 : https://velog.io/@newbie_1761/BackJoon-2741
+- 2751 풀이 : https://velog.io/@newbie_1761/BackJoon-2751

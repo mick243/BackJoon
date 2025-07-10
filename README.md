@@ -27,3 +27,4 @@
 - 2562 풀이 : https://velog.io/@newbie_1761/BackJoon-2562
 - 2566 풀이 : https://velog.io/@newbie_1761/BackJoon-2566
 - 2609 풀이 : https://velog.io/@newbie_1761/BackJoon-2609
+- 2630 풀이 : https://velog.io/@newbie_1761/BackJoon-2630
